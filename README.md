@@ -30,8 +30,8 @@ API ini menyediakan fungsionalitas penuh untuk **CRUD (Create, Read, Update, Del
 
 1.  **Clone Repository**
     ```bash
-    git clone [https://github.com/username/repository-anda.git](https://github.com/username/repository-anda.git)
-    cd repository-anda
+    git clone [https://github.com/gamastronger/Tugas-2-Backend---RESTful-API.git]
+    cd Tugas-2-Backend---RESTful-API
     ```
 
 2.  **Install Dependencies**
