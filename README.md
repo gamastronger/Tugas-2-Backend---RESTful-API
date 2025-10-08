@@ -1,11 +1,17 @@
-# RESTful API with Express & PostgreSQL
+# RESTful API CRUD dengan PostgreSQL
 **Refa Setyagama Abdillah**
 **WDUIUX Celerates - Mentor Imam Fadhilah**
 
 ## Preview Screenshots
 
+### Struktur File
+![Server Running](./assets/koneksi.png)
+
 ### Server Running
 ![Server Running](./assets/server-running.png)
+
+### Koneksi Database
+![Server Running](./assets/koneksi.png)
 
 ### Postman Testing
 **GET, Menampilkan semua data mahasiswa**
