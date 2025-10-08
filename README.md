@@ -1,6 +1,6 @@
 # RESTful API with Express & PostgreSQL
-# Refa Setyagama Abdillah**
-**WDUIUX Celerates - Imam Fadhilah**
+# Refa Setyagama Abdillah
+**WDUIUX Celerates - Mentor Imam Fadhilah**
 
 ## Preview Screenshots
 
