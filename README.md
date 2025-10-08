@@ -8,6 +8,7 @@
 ![Server Running](./assets/struktur-file.png)
 
 ### Server Running
+saya menjalankan ini lewat "Run Windows + R" lalu saya ketik services.msc
 ![Server Running](./assets/server-running.png)
 
 ### Koneksi Database
