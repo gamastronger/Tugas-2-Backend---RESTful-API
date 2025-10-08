@@ -5,7 +5,7 @@
 ## Preview Screenshots
 
 ### Struktur File
-![Server Running](./assets/koneksi.png)
+![Server Running](./assets/struktur-file.png)
 
 ### Server Running
 ![Server Running](./assets/server-running.png)
